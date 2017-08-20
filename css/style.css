@@ -1,0 +1,7 @@
+#sticky {
+position:absolute;
+bottom:0;
+left:50%;
+margin-left:-200px;
+width:400px;
+}
